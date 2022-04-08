@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+  width: 100vw;
+  height: 100vh;
+}
+
+#canvas1 {
+  border: 5px solid black;
+  width: 600px;
+  height: 600px;
+}
