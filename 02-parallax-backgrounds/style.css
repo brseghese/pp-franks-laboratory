@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+}
+
+#canvas1 {
+  border: 5px solid white;
+  width: 800px;
+  height: 600px;
+}
+
+#container {
+  display: flex;
+  gap: 20px;
+}
+
+p {
+  color: white;
+}

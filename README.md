@@ -44,20 +44,21 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 <h3 id="sobre">📍 Sobre</h3>
 
 ✅ 01 - Animação de sprites. <br>
+✅ 02 - Parallax. <br>
 
 <h3 id="extras">📢 Extras</h3>
 
 ✅ CSS Flexbox. <br>
-✅ HTML label, select, option. <br>
+✅ HTML select e option. <br>
+✅ HTML input type="range". <br>
 
 <h3 id="preview">🎥 Preview</h3>
 
 <img src="./assets/sprite-animation.gif" width="600px">
-<p>Aula 01</p>
 
 <h3 id="status">📌 Status do projeto</h3>
 
-Cursando. 🚧
+Cursando. 👀
 
 <h3 id="autor">✒️ Autor</h3>
 
