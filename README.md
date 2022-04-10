@@ -45,6 +45,7 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 
 ✅ 01 - Animação de sprites. <br>
 ✅ 02 - Parallax. <br>
+✅ 03 - Animação de NPC (28:08). <br>
 
 <h3 id="extras">📢 Extras</h3>
 
