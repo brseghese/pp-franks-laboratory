@@ -43,15 +43,17 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 
 <h3 id="sobre">📍 Sobre</h3>
 
-✅ 01 - Animação de sprites. <br>
+✅ 01 - Sprite Animation. <br>
 ✅ 02 - Parallax. <br>
-✅ 03 - Animação de NPC (28:08). <br>
+✅ 03 - NPC Animation (28:08). <br>
+✅ 09 - Side Scroller. <br>
 
 <h3 id="extras">📢 Extras</h3>
 
 ✅ CSS Flexbox. <br>
 ✅ HTML select e option. <br>
 ✅ HTML input type="range". <br>
+✅ Context 2d Canvas - `requestAnimationFrame(0)` com timestamp. <br>
 
 <h3 id="preview">🎥 Preview</h3>
 
