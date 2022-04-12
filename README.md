@@ -19,6 +19,8 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 
 <h3 id="inicio">🚀 Início</h3>
 
+[Start Game](https://shadowdog.netlify.app) 🎮
+
 [Playlist do Curso](https://www.youtube.com/playlist?list=PLYElE_rzEw_uryBrrzu2E626MY4zoXvx2)🔗
 
 <h3 id="pre-requisitos">📋 Pré-requisitos</h3>
@@ -47,13 +49,12 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 ✅ 02 - Parallax. <br>
 ✅ 03 - NPC Animation (28:08). <br>
 ✅ 09 - Side Scroller. <br>
+✅ 10 - Mobile. <br>
 
 <h3 id="extras">📢 Extras</h3>
 
-✅ CSS Flexbox. <br>
-✅ HTML select e option. <br>
-✅ HTML input type="range". <br>
-✅ Context 2d Canvas - `requestAnimationFrame(0)` com timestamp. <br>
+✅ Loop - `requestAnimationFrame(0)` com timestamp. <br>
+✅ Full Screen - `canvas.requestFullscreen()`. <br>
 
 <h3 id="preview">🎥 Preview</h3>
 

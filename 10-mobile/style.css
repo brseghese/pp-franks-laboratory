@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+}
+
+#canvas1 {
+  border: 5px solid white;
+  /* width: 800px;
+  height: 600px; */
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#playerImage,
+#enemyImage,
+#backgroundImage {
+  display: none;
+}
+
+#fullScreenButton {
+  position: absolute;
+  font-size: 20px;
+  padding: 10px;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
