@@ -12,7 +12,7 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 ◽ <a href="#tecnologias">Tecnologias</a> <br>
 ◽ <a href="#sobre">Sobre</a> <br>
 ◽ <a href="#extras">Extras</a> <br>
-◽ <a href="#preview">Preview</a> <br>
+<!-- ◽ <a href="#preview">Preview</a> <br> -->
 ◽ <a href="#status">Status do Projeto</a> <br>
 ◽ <a href="#autor">Autor</a> <br>
 </details>
@@ -50,15 +50,17 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 ✅ 03 - NPC Animation (28:08). <br>
 ✅ 09 - Side Scroller. <br>
 ✅ 10 - Mobile. <br>
+✅ 11 - State Management (Modules). <br>
 
 <h3 id="extras">📢 Extras</h3>
 
 ✅ Loop - `requestAnimationFrame(0)` com timestamp. <br>
 ✅ Full Screen - `canvas.requestFullscreen()`. <br>
+✅ POO. <br>
 
-<h3 id="preview">🎥 Preview</h3>
+<!-- <h3 id="preview">🎥 Preview</h3> -->
 
-<img src="./assets/sprite-animation.gif" width="600px">
+<!-- <img src="./assets/sprite-animation.gif" width="600px"> -->
 
 <h3 id="status">📌 Status do projeto</h3>
 
