@@ -51,6 +51,7 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 ✅ 09 - Side Scroller. <br>
 ✅ 10 - Mobile. <br>
 ✅ 11 - State Management (Modules). <br>
+✅ 12 - Platformer Game Canvas. <br>
 
 <h3 id="extras">📢 Extras</h3>
 
