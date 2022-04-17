@@ -12,7 +12,7 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 ◽ <a href="#tecnologias">Tecnologias</a> <br>
 ◽ <a href="#sobre">Sobre</a> <br>
 ◽ <a href="#extras">Extras</a> <br>
-<!-- ◽ <a href="#preview">Preview</a> <br> -->
+◽ <a href="#preview">Preview</a> <br>
 ◽ <a href="#status">Status do Projeto</a> <br>
 ◽ <a href="#autor">Autor</a> <br>
 </details>
@@ -51,7 +51,8 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 ✅ 09 - Side Scroller. <br>
 ✅ 10 - Mobile. <br>
 ✅ 11 - State Management (Modules). <br>
-✅ 12 - Platformer Game Canvas. <br>
+✅ 12 - Platformer Game Sprite Animation. <br>
+✅ 13 - Platformer Game Parallax. <br>
 
 <h3 id="extras">📢 Extras</h3>
 
@@ -59,9 +60,9 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 ✅ Full Screen - `canvas.requestFullscreen()`. <br>
 ✅ POO. <br>
 
-<!-- <h3 id="preview">🎥 Preview</h3> -->
+<h3 id="preview">🎥 Preview</h3>
 
-<!-- <img src="./assets/sprite-animation.gif" width="600px"> -->
+<img src="./assets/shadow-dog.gif" width="600px">
 
 <h3 id="status">📌 Status do projeto</h3>
 

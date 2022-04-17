@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background: black;
+}
+
 #canvas1 {
   border: 5px solid black;
   position: absolute;
@@ -14,6 +18,11 @@
   max-height: 100%;
 }
 
-#player {
+#player,
+#layer1,
+#layer2,
+#layer3,
+#layer4,
+#layer5 {
   display: none;
 }
