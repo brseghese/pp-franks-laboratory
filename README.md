@@ -10,7 +10,7 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 ◽ <a href="#pre-requisitos">Pré-requisitos</a> <br>
 ◽ <a href="#acessar-projeto">Acessar Projeto</a> <br>
 ◽ <a href="#tecnologias">Tecnologias</a> <br>
-◽ <a href="#sobre">Sobre</a> <br>
+◽ <a href="#sobre">Tópicos</a> <br>
 ◽ <a href="#extras">Extras</a> <br>
 ◽ <a href="#preview">Preview</a> <br>
 ◽ <a href="#status">Status do Projeto</a> <br>
@@ -43,7 +43,7 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<h3 id="sobre">📍 Sobre</h3>
+<h3 id="sobre">📍 Tópicos</h3>
 
 ✅ 01 - Sprite Animation. <br>
 ✅ 02 - Parallax. <br>
@@ -53,12 +53,15 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 ✅ 11 - State Management (Modules). <br>
 ✅ 12 - Platformer Game Sprite Animation. <br>
 ✅ 13 - Platformer Game Parallax. <br>
+✅ 14 - Platformer Game Different Enemies. <br>
+✅ 15 - Platformer Game Particles & Interections. <br>
 
 <h3 id="extras">📢 Extras</h3>
 
 ✅ Loop - `requestAnimationFrame(0)` com timestamp. <br>
 ✅ Full Screen - `canvas.requestFullscreen()`. <br>
 ✅ POO. <br>
+✅ Modules. <br>
 
 <h3 id="preview">🎥 Preview</h3>
 
