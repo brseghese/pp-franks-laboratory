@@ -27,6 +27,7 @@ body {
 #enemy_fly,
 #enemy_plant,
 #enemy_spider_big,
-#fire {
+#fire,
+#collisionAnimation {
   display: none;
 }

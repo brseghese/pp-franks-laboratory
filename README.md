@@ -1,6 +1,6 @@
 # Franks Laboratory 🧪
 
-Repositório com projetos de **Criação de Jogos em JavaScript** propostos no canal Franks Laboratory.
+Criação e Desenvolvimento de Jogos em **Vanilla JavaScript** propostos no canal Franks Laboratory.
 
 ### 🎯 Menu
 
@@ -19,7 +19,9 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 
 <h3 id="inicio">🚀 Início</h3>
 
-[Start Game](https://shadowdog.netlify.app) 🎮
+[Start Game](https://brsegh-shadow-dog.netlify.app/) 🎮
+
+### 📚 Material de Apoio
 
 [Playlist do Curso](https://www.youtube.com/playlist?list=PLYElE_rzEw_uryBrrzu2E626MY4zoXvx2)🔗
 
@@ -55,13 +57,14 @@ Repositório com projetos de **Criação de Jogos em JavaScript** propostos no c
 ✅ 13 - Platformer Game Parallax. <br>
 ✅ 14 - Platformer Game Different Enemies. <br>
 ✅ 15 - Platformer Game Particles & Interections. <br>
+✅ 16 - Platformer Game Finish In Time. <br>
 
 <h3 id="extras">📢 Extras</h3>
 
-✅ Loop - `requestAnimationFrame(0)` com timestamp. <br>
-✅ Full Screen - `canvas.requestFullscreen()`. <br>
 ✅ POO. <br>
 ✅ Modules. <br>
+✅ Loop e TimeStamp - `requestAnimationFrame(0)`. <br>
+✅ Full Screen - `canvas.requestFullscreen()`. <br>
 
 <h3 id="preview">🎥 Preview</h3>
 
@@ -76,6 +79,6 @@ Cursando. 👀
 <a href="https://github.com/brseghese"> <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80193824?v=4" width="100px;" alt="Personal photo"/> </a>
 
 [Clique aqui](https://brseghese.github.io)🔗 e acesse meu portfólio! 💼 (em construção...) <br>
-Desenvolvido com ❤️ por **Bruno Seghese** © Alguns direitos reservados.
+Desenvolvido com ❤️ por **Bruno Seghese**
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoseghese/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brseghese) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brseghese@gmail.com)
