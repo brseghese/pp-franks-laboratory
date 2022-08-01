@@ -12,7 +12,7 @@ Criação e Desenvolvimento de Jogos em **Vanilla JavaScript** propostos no cana
 
 ### 🚀 Início
 
-[Start Game](https://brsegh-shadow-dog.netlify.app/) 🎮
+[Start Game](https://pp-shadow-dog.netlify.app/) 🎮
 
 ---
 
