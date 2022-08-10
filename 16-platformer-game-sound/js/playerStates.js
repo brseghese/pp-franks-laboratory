@@ -1,6 +1,8 @@
 import { Dust, Fire, Splash } from "./particles.js";
 
-const soundJumping = document.getElementById("jumping");
+const jump = document.getElementById("jump");
+const pause = document.getElementById("pause");
+const dano = document.getElementById("dano");
 
 const states = {
   SITTING: 0,
@@ -27,6 +29,7 @@ export class Sitting extends State {
     this.game.player.frameX = 0;
     this.game.player.maxFrame = 4;
     this.game.player.frameY = 5;
+    pause.play();
   }
   handleInput(input) {
     if (input.includes("a") || input.includes("d")) {
@@ -75,7 +78,7 @@ export class Jumping extends State {
     this.game.player.frameX = 0;
     this.game.player.maxFrame = 6;
     this.game.player.frameY = 1;
-    soundJumping.play();
+    jump.play();
   }
   handleInput(input) {
     if (this.game.player.vy > this.game.player.weight) {
@@ -188,6 +191,7 @@ export class HIT extends State {
     this.game.player.frameX = 0;
     this.game.player.maxFrame = 10;
     this.game.player.frameY = 4;
+    dano.play();
   }
   handleInput(input) {
     if (this.game.player.frameX >= 10 && this.game.player.onGround()) {

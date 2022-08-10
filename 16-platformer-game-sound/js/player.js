@@ -11,6 +11,8 @@ import {
 import { CollisionAnimation } from "./collisionAnimation.js";
 import { FloatingMessage } from "./floatingMessage.js";
 
+const score = document.getElementById("score");
+
 export class Player {
   constructor(game) {
     this.game = game;
@@ -97,7 +99,7 @@ export class Player {
       this.x,
       this.y,
       this.width,
-      this.height
+      this.height,
     );
   }
   onGround() {
@@ -122,8 +124,8 @@ export class Player {
           new CollisionAnimation(
             this.game,
             enemy.x + enemy.width * 0.5,
-            enemy.y + enemy.height * 0.5
-          )
+            enemy.y + enemy.height * 0.5,
+          ),
         );
         if (
           this.currentState === this.states[4] ||
@@ -131,8 +133,9 @@ export class Player {
         ) {
           this.game.score++;
           this.game.floatingMessages.push(
-            new FloatingMessage("+1", enemy.x, enemy.y, 150, 45)
+            new FloatingMessage("+1", enemy.x, enemy.y, 150, 45),
           );
+          score.play();
         } else {
           this.setState(6, 0);
           this.game.score -= 5;
